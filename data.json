@@ -1,0 +1,52 @@
+{
+"dataArray": [
+  { "title": "First accordian", "content": "First accordian First accordian First accordian First accordian"},
+  { "title": "Second accordian", "content": "Second accordian Second accordian Second accordian Second accordian"},
+  { "title": "Third accordian", "content": "Third accordian Third accordian Third accordian Third accordian"}
+],
+
+"cards": [
+  {
+    "text": "Card One",
+    "name": "One",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Farmhouse_in_Provence%2C_1888%2C_Vincent_van_Gogh%2C_NGA.jpg/795px-Farmhouse_in_Provence%2C_1888%2C_Vincent_van_Gogh%2C_NGA.jpg",
+  },
+  {
+    "text": "Card Two",
+    "name": "Two",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/La_Chambre_%C3%A0_Arles%2C_by_Vincent_van_Gogh%2C_from_C2RMF_frame_cropped.jpg/772px-La_Chambre_%C3%A0_Arles%2C_by_Vincent_van_Gogh%2C_from_C2RMF_frame_cropped.jpg",
+  },
+  {
+    "text": "Card Three",
+    "name": "Three",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Van_Gogh_-_Das_Bordell.jpeg/752px-Van_Gogh_-_Das_Bordell.jpeg",
+  }
+],
+
+"caro":[
+  {
+    "key": "0",
+    "title": "Christina's World",
+    "year": "1948",
+    "imageuri": "https://upload.wikimedia.org/wikipedia/en/a/a2/Christinasworld.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Andrew_Wyeth.jpg",
+    "description": "Christina's World is a 1948 painting by American painter Andrew Wyeth and one of the best-known American paintings of the middle 20th century."
+  },
+  {
+  "key": "1",
+  "title": "Mona Lisa",
+  "year": "1503",
+  "imageuri": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/515px-Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg",
+  "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Francesco_Melzi_-_Portrait_of_Leonardo.png/418px-Francesco_Melzi_-_Portrait_of_Leonardo.png",
+  "description": "The Mona Lisa is a half-length portrait painting by the Italian Renaissance artist Leonardo da Vinci."
+  },
+  {
+    "key": "2",
+    "title": "Girl with a Pearl Earring",
+    "year": "1665",
+    "imageuri": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Meisje_met_de_parel.jpg/512px-Meisje_met_de_parel.jpg",
+    "thumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Cropped_version_of_Jan_Vermeer_van_Delft_002.jpg/172px-Cropped_version_of_Jan_Vermeer_van_Delft_002.jpg",
+    "description": "Girl with a Pearl Earring is an oil painting by Dutch Golden Age painter Johannes Vermeer, dated c. 1665."
+  }
+]
+}
